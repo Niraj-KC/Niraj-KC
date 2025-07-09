@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Niraj KC, a passionate developer committed to 
 - 💻 I love coding in languages like Python, JavaScript, Dart, and more.
 - 🌱 Currently learning new frameworks and cloud technologies.
 - 🛠️ Interested in web development, automation, IoT, and open-source projects.
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter here]
+- 📫 How to reach me: [niraj.kc.128@gmail.com/[LinkedIn](https://www.linkedin.com/in/niraj-chaudhari-185552258/)/]
 
 ## 📈 GitHub Stats
 ![Niraj KC's GitHub stats](https://github-readme-stats.vercel.app/api?username=Niraj-KC&show_icons=true&theme=radical)
@@ -26,9 +26,7 @@ Welcome to my GitHub profile! I'm Niraj KC, a passionate developer committed to 
 <!-- Add more tools or languages as you see fit -->
 
 ## 🌏 Let's Connect!
-- [LinkedIn](#) <!-- Add your LinkedIn profile -->
-- [Twitter](#) <!-- Add your Twitter profile -->
-- [Portfolio](#) <!-- Add your portfolio or personal website link -->
+- [LinkedIn](https://www.linkedin.com/in/niraj-chaudhari-185552258/) <!-- Add your LinkedIn profile -->
 
 ---
 
